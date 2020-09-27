@@ -13,6 +13,8 @@ export const validation = (keydownEvent, isDecimal: boolean) => {
       keydownEvent.keyCode === 110 ||
       keydownEvent.keyCode === 17 ||
       keydownEvent.keyCode === 67 ||
+      keydownEvent.keyCode === 90 ||
+      keydownEvent.keyCode === 88 ||
       keydownEvent.keyCode === 86 ||
       keydownEvent.key === "Meta" ||
       keydownEvent.keyCode === 65
@@ -26,6 +28,8 @@ export const validation = (keydownEvent, isDecimal: boolean) => {
       keydownEvent.keyCode === 17 ||
       keydownEvent.keyCode === 67 ||
       keydownEvent.keyCode === 86 ||
+      keydownEvent.keyCode === 90 ||
+      keydownEvent.keyCode === 88 ||
       keydownEvent.key === "Meta" ||
       keydownEvent.keyCode === 65
     );
