@@ -1,5 +1,5 @@
 # helper_functions
-A set of small functions for ditterent task
+A set of small functions for ditterent tasks.
 
 ### Input number in text field
 - Only number will be printed the input filled onKeyDown / onKeyPress
